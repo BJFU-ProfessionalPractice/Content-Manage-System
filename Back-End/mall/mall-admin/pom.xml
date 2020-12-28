@@ -17,7 +17,7 @@
     </parent>
 
     <dependencies>
-
+        <!--bugfix:jdk version is too high-->
         <dependency>
             <groupId>javax.xml.bind</groupId>
             <artifactId>jaxb-api</artifactId>
